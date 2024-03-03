@@ -592,7 +592,7 @@ footer{
 @media(max-width:1200px){
   #search-banner{
     width: 90%;
-    min-height: 40vh;
+    min-height: 45vh;
   }
   #popular-bundle-pack,
   #popular-product,
