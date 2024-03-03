@@ -97,7 +97,7 @@ body{
 /*==Search-Banner=======*/
 #search-banner{
   max-width: 1250px;
-  min-height: 500px;
+  height: 500px;
   border-radius: 30px;
   background-color: #9cff9d;
   margin: 10px auto;
@@ -592,7 +592,7 @@ footer{
 @media(max-width:1200px){
   #search-banner{
     width: 90%;
-    height: 500px;
+    min-height: 40vh;
   }
   #popular-bundle-pack,
   #popular-product,
@@ -607,8 +607,9 @@ footer{
   .bg-1{
     width: 150px;
     height: 150px;
-    top: -20px;
+    top: -10px;
   }
+ 
   #search-banner{
     background-size: 700px;
   }
@@ -708,7 +709,7 @@ footer{
   .bg-2{
     width: 100px;
     height: 100px;
-    top: -50px;
+    top: -30px;
   }
   .category-container{
     flex-wrap: wrap;
