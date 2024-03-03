@@ -776,9 +776,9 @@ footer{
     font-size: 2rem;
     line-height: 30px;
   }
-  .bg-1{
+  /* .bg-1{
     display: none;
-  }
+  } */
   .client-box-container{
     grid-template-columns: 1fr;
   }
