@@ -97,7 +97,7 @@ body{
 /*==Search-Banner=======*/
 #search-banner{
   max-width: 1250px;
-  height: 500px;
+  min-height: 500px;
   border-radius: 30px;
   background-color: #9cff9d;
   margin: 10px auto;
